@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:100');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
+.Contact{
+    font-family: 'Roboto', sans-serif;
+    height: 50vh;
+    width: 100%;
+    text-align: center;
+   
+    margin:0;
+    padding:0;
+}
+.Contact_hedding{
+    font-family: 'Noto Sans KR', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 2.4em;
+    font-weight:400;
+    margin:30px 0;
+}
+.Contact_hedding::after{
+    position: absolute;
+    content: "";
+    top:100%;
+    height:2px;
+    width: 50px;
+    left: 0;
+    right: 70%;
+    margin:0 auto;
+    background:rgb(123, 124, 212);
+}
+.Email{
+    font-size: 2.7em;
+    font-weight: 500;
+}
+.Github{
+    width: 78px;
+    height:90px;
+}

@@ -1,25 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Header from './Components/Header';
+import Home from './Components/Home';
+import About from './Components/About';
+import Project from './Components/Project';
+import Contact from './Components/Contact';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className="HomepageLayout">
+     <Header/>
+     <Home text="Developer 이규한의 포트폴리오 입니다."/>
+     <About/>
+     <Project/>
+     <Contact/>
       </div>
     );
   }

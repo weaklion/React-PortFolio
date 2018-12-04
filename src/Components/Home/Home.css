@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:700');
+
+@keyframes blink {
+    from,to {
+        border-color: transparent
+    }
+
+    50%{
+    border-color: white;
+    }
+}
+
+.typer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:99vh;
+    background-image:url('./1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    width:100vw;
+  
+    
+}
+
+.typer-text{
+    font-family: 'Noto Sans KR', sans-serif;
+    border-right: 0.1em solid white;
+    font-size: 4vw;
+    white-space: pre;
+    line-height: 1;
+    letter-spacing: 0.1rem;
+    padding-top: 0.2em;
+    animation: blink 1s step-end infinite;
+}

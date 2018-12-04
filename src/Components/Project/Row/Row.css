@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:500');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:400');
+@import url('https://fonts.googleapis.com/css?family=Gothic+A1:200');
+.Row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right:-15px;
+    margin-left:-15px;
+}
+.Box{
+    height: 45vh;
+  
+    width: 100%;
+    max-width: 80vw;
+    border-radius: 4px;
+    margin:0 auto 30px;
+    background: #ffffff;
+    box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
+}
+.Box_image{
+    float: left;
+    width:  35%;
+    height: 45vh; 
+    margin-right:2rem;
+}
+.image{
+   width: 100%;
+   height:100%;
+}
+.Box_info{
+    font-family: 'Gothic A1', sans-serif;
+    padding:14px;
+}
+.Box_title{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight:500;
+    font-size: 1.6em;
+    text-align: center;
+}
+.Box_content{
+    font-size: 1.4em;
+}
+.name{
+    font-weight:500;
+    font-size: 1.4em;
+}
+.Box_ul{
+    list-style: none;
+  
+}
+.Box_li{
+    display: inline-block;
+    cursor: pointer;
+}
+.icon_image{
+    width: 25px;
+    height:30px;
+}
+@media (max-width: 576px){
+    .Row{
+        font-size: 11px;
+    }
+    
+}
+@media (max-width: 320px){
+    .Row{
+        font-size: 8px;
+    }
+}

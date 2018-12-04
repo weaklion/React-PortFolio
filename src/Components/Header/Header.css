@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
+
+.header-class{
+    background: transparent;
+    color:white;
+   height:64px; 
+   position: fixed;
+   top:0;
+   left:0;
+   right:0;
+   width:100vw;
+
+}
+.header-class ul {
+    list-style: none;
+    margin:0;
+  
+}
+.header-class ul li {
+    font-family: 'Roboto', sans-serif;
+        margin-right:7vw;
+       padding:1.5rem;
+    float: right;
+    border: 0;
+}
+@media (max-width: 576px){
+ .header-class ul li {
+     margin-right:0;
+     padding: 1rem;
+ }   
+}
