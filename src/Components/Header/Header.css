@@ -5,11 +5,11 @@
     background: transparent;
     color:white;
    height:64px; 
-   position: fixed;
+   position:fixed;
    top:0;
    left:0;
    right:0;
-   width:100vw;
+   width:100%;
 
 }
 .header-class ul {
@@ -24,9 +24,7 @@
     float: right;
     border: 0;
 }
-@media (max-width: 576px){
- .header-class ul li {
-     margin-right:0;
-     padding: 1rem;
- }   
+body{
+    overflow-x: hidden;
+    
 }

@@ -1,8 +1,9 @@
 .Project{
-    padding: 50px 15px;
+  
   background:#6CDAB2;
-    opacity: 0.8;
+border-top: 2px solid #6CDAB2;
     height: 100%;
+    width: 100%;
  border-bottom: 2px solid white;
 }
 .Project_title{

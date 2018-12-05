@@ -4,6 +4,7 @@ import Home from './Components/Home';
 import About from './Components/About';
 import Project from './Components/Project';
 import Contact from './Components/Contact';
+import Skills from './Components/Skils';
 import './App.css';
 
 class App extends Component {
@@ -14,10 +15,14 @@ class App extends Component {
   render() {
     return (
       <div className="HomepageLayout">
+      <Header/>
+
        <Home/>
      <About/>
+     <Skills/>
      <Project/>
      <Contact/>
+    
       </div>
    
     );
