@@ -7,15 +7,19 @@ import Contact from './Components/Contact';
 import './App.css';
 
 class App extends Component {
+  componentDidMount(){
+    window.scrollTo(0,0);
+  }
+
   render() {
     return (
       <div className="HomepageLayout">
-     <Header/>
-     <Home text="Developer 이규한의 포트폴리오 입니다."/>
+       <Home/>
      <About/>
      <Project/>
      <Contact/>
       </div>
+   
     );
   }
 }
