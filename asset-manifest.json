@@ -1,7 +1,7 @@
 {
-  "main.css": "/React-PortFolio/static/css/main.c9c210ea.chunk.css",
-  "main.js": "/React-PortFolio/static/js/main.76dd3673.chunk.js",
-  "main.js.map": "/React-PortFolio/static/js/main.76dd3673.chunk.js.map",
+  "main.css": "/React-PortFolio/static/css/main.3f7594c9.chunk.css",
+  "main.js": "/React-PortFolio/static/js/main.c2931d21.chunk.js",
+  "main.js.map": "/React-PortFolio/static/js/main.c2931d21.chunk.js.map",
   "static/js/1.6318bd3f.chunk.js": "/React-PortFolio/static/js/1.6318bd3f.chunk.js",
   "static/js/1.6318bd3f.chunk.js.map": "/React-PortFolio/static/js/1.6318bd3f.chunk.js.map",
   "runtime~main.js": "/React-PortFolio/static/js/runtime~main.84daf295.js",
@@ -11,8 +11,8 @@
   "static/media/smartmirror.png": "/React-PortFolio/static/media/smartmirror.83bffd84.png",
   "static/media/Home.css": "/React-PortFolio/static/media/1.eea16b24.jpg",
   "static/media/1.png": "/React-PortFolio/static/media/1.4a2f8139.png",
-  "static/css/main.c9c210ea.chunk.css.map": "/React-PortFolio/static/css/main.c9c210ea.chunk.css.map",
+  "static/css/main.3f7594c9.chunk.css.map": "/React-PortFolio/static/css/main.3f7594c9.chunk.css.map",
   "index.html": "/React-PortFolio/index.html",
-  "precache-manifest.4f5afb4b07aac3c6202869a5929c73f5.js": "/React-PortFolio/precache-manifest.4f5afb4b07aac3c6202869a5929c73f5.js",
+  "precache-manifest.ac7b2c90695f33fb7081f4d344b426a3.js": "/React-PortFolio/precache-manifest.ac7b2c90695f33fb7081f4d344b426a3.js",
   "service-worker.js": "/React-PortFolio/service-worker.js"
 }
