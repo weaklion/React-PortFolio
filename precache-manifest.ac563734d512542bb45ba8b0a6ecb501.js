@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/css.faae11a6.png"
   },
   {
-    "revision": "e77c35d7ebf17ae8b759",
-    "url": "/React-PortFolio/static/css/main.68670ae6.chunk.css"
+    "revision": "c3295380ed37bc54bfba",
+    "url": "/React-PortFolio/static/css/main.5bc92592.chunk.css"
   },
   {
     "revision": "9644613b981d7098099b",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/cpppp-490x490.58393424.png"
   },
   {
-    "revision": "e77c35d7ebf17ae8b759",
-    "url": "/React-PortFolio/static/js/main.e77c35d7.chunk.js"
+    "revision": "c3295380ed37bc54bfba",
+    "url": "/React-PortFolio/static/js/main.c3295380.chunk.js"
   },
   {
     "revision": "b0c12b3217284d8a3cfc7ca8f172b70d",
@@ -100,7 +100,7 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/1.eea16b24.jpg"
   },
   {
-    "revision": "e4c754f3157f111c0a63b114c406605e",
+    "revision": "682aa8c9bd6049e6592463615e5fc327",
     "url": "/React-PortFolio/index.html"
   }
 ];
