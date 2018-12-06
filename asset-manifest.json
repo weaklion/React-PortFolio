@@ -1,7 +1,7 @@
 {
-  "main.css": "/React-PortFolio/static/css/main.6a6b08b6.chunk.css",
-  "main.js": "/React-PortFolio/static/js/main.430065fe.chunk.js",
-  "main.js.map": "/React-PortFolio/static/js/main.430065fe.chunk.js.map",
+  "main.css": "/React-PortFolio/static/css/main.417aef2e.chunk.css",
+  "main.js": "/React-PortFolio/static/js/main.4d26e5c1.chunk.js",
+  "main.js.map": "/React-PortFolio/static/js/main.4d26e5c1.chunk.js.map",
   "static/js/1.add3b4ea.chunk.js": "/React-PortFolio/static/js/1.add3b4ea.chunk.js",
   "static/js/1.add3b4ea.chunk.js.map": "/React-PortFolio/static/js/1.add3b4ea.chunk.js.map",
   "runtime~main.js": "/React-PortFolio/static/js/runtime~main.84daf295.js",
@@ -27,8 +27,8 @@
   "static/media/Tux.png": "/React-PortFolio/static/media/Tux.7ed8a808.png",
   "static/media/Windows-Logo.png": "/React-PortFolio/static/media/Windows-Logo.96f372af.png",
   "static/media/Home.css": "/React-PortFolio/static/media/1.eea16b24.jpg",
-  "static/css/main.6a6b08b6.chunk.css.map": "/React-PortFolio/static/css/main.6a6b08b6.chunk.css.map",
+  "static/css/main.417aef2e.chunk.css.map": "/React-PortFolio/static/css/main.417aef2e.chunk.css.map",
   "index.html": "/React-PortFolio/index.html",
-  "precache-manifest.a2fd950ca5df8408c724c6082dd413ec.js": "/React-PortFolio/precache-manifest.a2fd950ca5df8408c724c6082dd413ec.js",
+  "precache-manifest.029d4921f25427c6466e0d62c0cb0f0c.js": "/React-PortFolio/precache-manifest.029d4921f25427c6466e0d62c0cb0f0c.js",
   "service-worker.js": "/React-PortFolio/service-worker.js"
 }
