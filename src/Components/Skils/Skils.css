@@ -5,6 +5,7 @@
     margin:0 auto;
 text-align: center;
 padding-bottom:5rem;
+background: rgb(231, 230, 230);
 
 }
 .Skill_Heeding{
@@ -21,11 +22,11 @@ padding-bottom:5rem;
     content: "";
     top:100%;
     height:2px;
-    width: 50px;
+    width: 30px;
     left: 0;
     right: 70%;
     margin:0 auto;
-    background:rgb()
+    background:rgb(253, 198, 198);
 }
 .Skill_image_container{
     text-align: center;

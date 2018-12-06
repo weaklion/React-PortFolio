@@ -30,7 +30,7 @@ class Home extends Component{
 
   render(){
     return (
-  <div className="typer">
+  <div className="typer" id="h">
    <h1 className="typer-text">{this.state.text}</h1>
   </div>
 );

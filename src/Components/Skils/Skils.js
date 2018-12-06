@@ -24,7 +24,7 @@ import Window_logo from './logo/Windows-Logo.png';
 const Skils = () => (
 
 
-  <div className="Skill">
+  <div className="Skill" id="s">
     <h1 className="Skill_Heeding"> Skils </h1>
     <div className="Skill_Content">
     <h2 className="Skill_Title"> Launage</h2>
