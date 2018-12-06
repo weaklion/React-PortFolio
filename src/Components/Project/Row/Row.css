@@ -34,11 +34,12 @@
 }
 
 .Box_content{
-    font-size: 1.4em;
+    font-size: 1.3em;
+    
 }
 .name{
     font-weight:500;
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 .Box_ul{
     list-style: none;
@@ -78,26 +79,35 @@
         text-align: center;
     }
     
+    
 }
 @media (max-width: 320px){
     .Row{
-        font-size: 7px;
+        font-size: 9px;
         width: 100%;
+        margin: 0;
     }
     .Box{
         width: 100%;
         max-width: 100%;
-        height: 180px;
+        height: 210px;
+    }
+    .Box_info{
+        
+        padding:9px;
+    }
+    .Box_content{
+        font-size: 1.2em;
     }
 .Box_image{
     float: left;
    
-    height:180px;
+    height:210px;
     margin-right:2rem;
 }
 .image{
    width: 100%;
-   height:180px;
+   height:210px;
 }
 
 }
