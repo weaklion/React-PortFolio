@@ -3,10 +3,8 @@
 
 .header-class{
    position:fixed;
-   top:0;
-   left:0;
-   right:0;
-   width:99%;
+
+   width:95vw;
 
 }
 .header-text{
@@ -15,7 +13,7 @@
     color:white;
    height:64px; 
    width: 70%;
-   border-radius: 0 0 0 30px;
+   border-radius: 2px 2px 30px 30px;
 }
 .header-class ul {
     list-style: none;
@@ -105,10 +103,3 @@ html{
     color:gray;
       opacity: 0.6;
     }
-  
-@media (max-width: 576px){
-    font-size:8px;    
-}
-@media (max-width: 320px){
-    font-size: 5px;
-}
