@@ -9,14 +9,13 @@ import './App.css';
 
 class App extends Component {
   componentDidMount(){
-    window.scrollTo(0,0);
+   
   }
 
   render() {
     return (
       <div className="HomepageLayout">
-      <Header/>
-
+      <Header />
        <Home/>
      <About/>
      <Skills/>
