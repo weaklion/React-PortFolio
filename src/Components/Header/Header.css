@@ -6,7 +6,7 @@
    top:0;
    left:0;
    right:0;
-   width:100%;
+   width:99%;
 
 }
 .header-text{
@@ -24,13 +24,14 @@
 }
 .header-li{
     font-family: 'Roboto', sans-serif;
-        margin-right:7vw;
+        margin-right:5rem;
        padding:1.5rem;
     float: right;
     border: 0;
     cursor: pointer;
       opacity: 0.6;
 }
+
 .header-class ul li:hover{
       opacity: 1;
 }
@@ -93,7 +94,7 @@ html{
     .bar_menu{
         display: grid;
         color: gray;
-        font-size:11px;
+        font-size:17px;
         list-style: none;
         padding:0px;
         grid-gap: 21px;
@@ -101,12 +102,10 @@ html{
     .bar_li{
         font-family: 'Roboto', sans-serif;
     cursor: pointer;
+    color:gray;
       opacity: 0.6;
     }
-    .bar_li:hover{
-        opacity: 1;
-    }
-
+  
 @media (max-width: 576px){
     font-size:8px;    
 }
