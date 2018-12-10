@@ -12,7 +12,7 @@
     background: rgba(0, 0, 0, 0.6);
     color:white;
    height:64px; 
-   width: 70%;
+   width: 775px;
    border-radius: 2px 2px 30px 30px;
 }
 .header-class ul {
@@ -22,7 +22,7 @@
 }
 .header-li{
     font-family: 'Roboto', sans-serif;
-        margin-right:5rem;
+       margin-right: 3rem;
        padding:1.5rem;
     float: right;
     border: 0;
@@ -36,7 +36,7 @@
 
 .blank_white{
     background: transparent;
-    width: 30%;
+    width:40%;
     height: 64px;
 }
 
