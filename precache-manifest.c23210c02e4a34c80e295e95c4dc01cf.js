@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/css.faae11a6.png"
   },
   {
-    "revision": "c3295380ed37bc54bfba",
-    "url": "/React-PortFolio/static/css/main.5bc92592.chunk.css"
+    "revision": "caba5995787b71a1c808",
+    "url": "/React-PortFolio/static/css/main.b1f30e17.chunk.css"
   },
   {
     "revision": "9644613b981d7098099b",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/cpppp-490x490.58393424.png"
   },
   {
-    "revision": "c3295380ed37bc54bfba",
-    "url": "/React-PortFolio/static/js/main.c3295380.chunk.js"
+    "revision": "caba5995787b71a1c808",
+    "url": "/React-PortFolio/static/js/main.caba5995.chunk.js"
   },
   {
     "revision": "b0c12b3217284d8a3cfc7ca8f172b70d",
@@ -96,11 +96,11 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/Windows-Logo.96f372af.png"
   },
   {
-    "revision": "eea16b24c4710e21c68b984aff2133a6",
-    "url": "/React-PortFolio/static/media/1.eea16b24.jpg"
+    "revision": "88d07c4d85d09c48c59278981ab73789",
+    "url": "/React-PortFolio/static/media/1.88d07c4d.jpg"
   },
   {
-    "revision": "682aa8c9bd6049e6592463615e5fc327",
+    "revision": "f66ca8add650198a963ecda7685f8828",
     "url": "/React-PortFolio/index.html"
   }
 ];
