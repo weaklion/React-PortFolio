@@ -60,8 +60,7 @@ padding: 1rem;
     .about_me_title{
         display: inline-block;
       text-align: center;
-      margin-left: 0;
-      margin-right: 0;
+   margin:0 auto;
     }
     .about_me_content{
         display: inline-block;

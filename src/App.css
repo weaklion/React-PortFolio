@@ -35,7 +35,8 @@
  -moz-animation: fadein 2s; /* Firefox */
 -webkit-animation: fadein 2s; /* Safari and Chrome */
 -o-animation: fadein 2s; /* Opera */
-
+display:grid;
+grid-auto-columns: repeat(1,1fr);
     height:100%;
    margin: 0px;
    padding: 0px;

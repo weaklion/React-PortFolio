@@ -5,8 +5,7 @@
 .Row{
     display: flex;
     flex-wrap: wrap;
-    margin-right:-15px;
-    margin-left:-15px;
+  
 }
 .Box{
     height: 360px;
@@ -59,14 +58,17 @@
         width: 100%;
     }
     .Box{
+    
         width: 100%;
         max-width: 100%;
-        height:240px;
+        height:50%;
+        display: grid;
     }
     .Box_image{
         float: left;
         height:240px;
-        margin-right:2rem;
+     
+        width: 100%;
     }
     .image{
        width: 100%;
@@ -80,34 +82,4 @@
     }
     
     
-}
-@media (max-width: 320px){
-    .Row{
-        font-size: 9px;
-        width: 100%;
-        margin: 0;
-    }
-    .Box{
-        width: 100%;
-        max-width: 100%;
-        height: 210px;
-    }
-    .Box_info{
-        
-        padding:9px;
-    }
-    .Box_content{
-        font-size: 1.2em;
-    }
-.Box_image{
-    float: left;
-   
-    height:210px;
-    margin-right:2rem;
-}
-.image{
-   width: 100%;
-   height:210px;
-}
-
 }

@@ -32,45 +32,45 @@ const Skils = () => (
     <div className="SKill_box">
     <div className="Skill_image_container" style={{backgroundImage: `url(${C})`}}><div className="Skill_label">Basic</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${CPP})`}}><div className="Skill_label">Basic</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${java})`}}><div className="Skill_label">Intermediated</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${JS})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${java})`}}><div className="Skill_label">Intermediate</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${JS})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${Python})`}}><div className="Skill_label">Basic</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Android})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${Android})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${Kotlin})`}}><div className="Skill_label">Basic</div></div>
      </div>
     </span>
      <h2 className="Skill_Title"> Web Skils</h2>
     <span className="Skill_Content">
-    <div className="Skill_image_container" style={{backgroundImage: `url(${html})`}}><div className="Skill_label">Intermediated</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${css})`}}><div className="Skill_label">Intermediated</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${JS})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${html})`}}><div className="Skill_label">Intermediate</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${css})`}}><div className="Skill_label">Intermediate</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${JS})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${jquery})`}}><div className="Skill_label">Basic</div></div>
     
     </span>
     <h2 className="Skill_Title">FrameWork</h2>
     <span className="Skill_Content">
-    <div className="Skill_image_container" style={{backgroundImage: `url(${react})`}}><div className="Skill_label">Intermediated</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${nodejs})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${react})`}}><div className="Skill_label">Intermediate</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${nodejs})`}}><div className="Skill_label">Intermediate</div></div>
     </span>
 
     <h2 className="Skill_Title">DataBase</h2>
     <span className="Skill_Content">
-    <div className="Skill_image_container" style={{backgroundImage: `url(${mysql})`}}><div className="Skill_label">Intermediated</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${mongodb})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${mysql})`}}><div className="Skill_label">Intermediate</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${mongodb})`}}><div className="Skill_label">Intermediate</div></div>
     </span>
     
     
     <h2 className="Skill_Title">Operating System</h2>
     <span className="Skill_Content">
     <div className="Skill_image_container" style={{backgroundImage: `url(${Window_logo})`}}><div className="Skill_label">Expert</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Linux})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${Linux})`}}><div className="Skill_label">Intermediate</div></div>
     </span>
     
     <h2 className="Skill_Title">Etc</h2>
     <span className="Skill_Content">
-    <div className="Skill_image_container" style={{backgroundImage: `url(${github})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${github})`}}><div className="Skill_label">Intermediate</div></div>
     <div className="Skill_image_container" style={{backgroundImage: `url(${firebase})`}}><div className="Skill_label">Basic</div></div>
-    <div className="Skill_image_container" style={{backgroundImage: `url(${Redux})`}}><div className="Skill_label">Intermediated</div></div>
+    <div className="Skill_image_container" style={{backgroundImage: `url(${Redux})`}}><div className="Skill_label">Intermediate</div></div>
     </span>
     </div>
   </div>

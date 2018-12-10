@@ -100,3 +100,15 @@ background: rgb(231, 230, 230);
         opacity:0.8;
     }
 }
+
+@media (max-width: 576px){
+    .Skill_image_container{
+        width: 100px;
+        height: 100px;
+    margin: 5px;
+    }
+    .Skill_label{
+        width: 84px;
+        height: 84px;
+    }
+}
