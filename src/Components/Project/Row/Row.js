@@ -34,7 +34,7 @@ const Row = () => (
 
      <div className="Box">
       <div className="Box_image">
-      <a href="https://github.com/weaklion/PortFolio"> <img src={virtual} alt="Virtual" className="image"></img></a>
+      <a href="https://github.com/weaklion/StreetTravel"> <img src={virtual} alt="Virtual" className="image"></img></a>
       </div>
       <div className="Box_info">
       <h1 className="Box_title">Virtual Travel Project</h1>
@@ -50,7 +50,7 @@ const Row = () => (
       </ul>
       <ul className="Box_ul">
       <li className="Box_li">
-      <a href="https://github.com/weaklion/PortFolio" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
+      <a href="https://github.com/weaklion/StreetTravel" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
        </li>
       </ul>
             </div>
@@ -62,7 +62,7 @@ const Row = () => (
       <div className="Box_info">
       <h1 className="Box_title">Jarvis Mirror</h1>
      
-      <h2 className="name">개발기간 :2018.03.10~2018.6.09</h2>
+      <h2 className="name">개발기간 :2018.03.10~2018.06.09</h2>
       <p className="Box_content">음성 인식을 이용하여 거울의 기능과
       캘린더,온습도,뉴스,날씨를 확인할수 있는 스마트 거울 
       </p>
