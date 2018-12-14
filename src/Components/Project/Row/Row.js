@@ -57,7 +57,7 @@ const Row = () => (
     </div>
     <div className="Box">
        <div className="Box_image">
-       <a href="https://github.com/weaklion/PortFolio"> <img src={smartmirror} alt="smartMirror" className="image"></img> </a>
+       <a href="https://github.com/weaklion/Jarvis_Mirror"> <img src={smartmirror} alt="smartMirror" className="image"></img> </a>
       </div>
       <div className="Box_info">
       <h1 className="Box_title">Jarvis Mirror</h1>
@@ -74,7 +74,7 @@ const Row = () => (
       </ul>
       <ul className="Box_ul">
       <li className="Box_li">
-      <a href="https://github.com/weaklion/PortFolio" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
+      <a href="https://github.com/weaklion/Jarvis_Mirror" alt="github"> <img src={github} alt="github" className="icon_image"/></a>
        </li>
       </ul>
             </div>
