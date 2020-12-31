@@ -5,10 +5,12 @@ class Header extends Component {
   _isMounted=false; 
   constructor(props) {
     super(props);
-    this.state = { width: 0,
-       height: 0,
-        desktop : true,
-      showMenu:false};
+    this.state = { 
+      width: 0,
+      height: 0,
+      desktop : true,
+      showMenu:false
+    };
       this.showMenu = this.showMenu.bind(this);
       this.closeMenu = this.closeMenu.bind(this);
     this.updateWindowDimensions = this.updateWindowDimensions.bind(this);
@@ -110,32 +112,32 @@ return(
 
           <ul className="bar_menu">
 
-     <li className="bar_li"  onClick={() => {
-        document.getElementById('h').scrollIntoView();
-     }}>
-       Home
-     </li>
-     <li className="bar_li"  onClick={() => {
-        document.getElementById('a').scrollIntoView();
-     }}>
-       About
-     </li>
-     <li className="bar_li"  onClick={() => {
-        document.getElementById('s').scrollIntoView();
-     }}>
-       Skills
-     </li>
-     <li className="bar_li"  onClick={() => {
-        document.getElementById('p').scrollIntoView();
-     }}>
-       Project
-     </li>
-     <li className="bar_li" onClick={() => {
-        document.getElementById('c').scrollIntoView();
-     }}>
-    Contact
-     </li >
-   </ul>
+            <li className="bar_li"  onClick={() => {
+                document.getElementById('h').scrollIntoView();
+            }}>
+              Home
+            </li>
+            <li className="bar_li"  onClick={() => {
+                document.getElementById('a').scrollIntoView();
+            }}>
+              About
+            </li>
+            <li className="bar_li"  onClick={() => {
+                document.getElementById('s').scrollIntoView();
+            }}>
+              Skills
+            </li>
+            <li className="bar_li"  onClick={() => {
+                document.getElementById('p').scrollIntoView();
+            }}>
+              Project
+            </li>
+            <li className="bar_li" onClick={() => {
+                document.getElementById('c').scrollIntoView();
+            }}>
+            Contact
+            </li >
+          </ul>
         ) : (null)
       }
       </div>

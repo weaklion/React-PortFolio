@@ -8,67 +8,71 @@
   
 }
 .Box{
-    height: 360px;
-    
+    display: flex;
+    height: 100%;
     width: 100%;
-    max-width: 80vw;
+    max-width: 50vw;
     border-radius: 4px;
     margin:0 auto 30px;
     background: #ffffff;
     box-shadow: 0 3px 6px rgba(0,0,0,.2), 0 3px 6px rgba(0,0,0,.2);
 }
 .Box_image{
-    float: left;
-    width:  35%;
-    height:360px;
-    margin-right:2rem;
+    width:  50%;
+    
 }
 .image{
    width: 100%;
-   height:360px;
+   height:100%;
 }
 .Box_info{
     font-family: 'Gothic A1', sans-serif;
     padding:14px;
+    margin-left: 2rem;
 }
 
 .Box_content{
-    font-size: 1.3em;
-    
+    font-size: 1.1em;
 }
+
+.company {
+    font-weight: 700;
+    font-size: 1.3em;
+}
+
 .name{
     font-weight:500;
-    font-size: 1.3em;
+    font-size: 1.1em;
+    
 }
 .Box_ul{
     list-style: none;
+    padding-left: 0;
   
 }
 .Box_li{
     display: inline-block;
     cursor: pointer;
+    margin-right: 4px;
 }
 .icon_image{
-    width: 25px;
+    width: 30px;
     height:30px;
 }
-@media (max-width: 576px){
+@media screen and (max-width: 768px){
     .Row{
         font-size: 10px;
         width: 100%;
+        flex-direction: column;
     }
     .Box{
-        margin-right: 3%;
-        margin-left: 3%;
         width: 100%;
         max-width: 100%;
         height:50%;
         display: grid;
     }
     .Box_image{
-        float: left;
         height:59%;
-     
         width: 100%;
     }
     .image{
@@ -79,7 +83,7 @@
         font-family: 'Noto Sans TC', sans-serif;
         font-weight:500;
         font-size:14px;
-        text-align: center;
+
     }
     
     
