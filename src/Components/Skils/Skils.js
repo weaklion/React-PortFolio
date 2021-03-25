@@ -27,7 +27,17 @@ const Skils = () => (
   <div className="Skill" id="s">
     <h1 className="Skill_Heeding"> Skils </h1>
     <div className="Skill_Content">
-      <h2 className="Skill_Title"> Front-end || publishing </h2>
+
+      <h2 className="Skill_Title">publishing</h2>
+      <span className="Skill_Content">
+        <div className="SKill_box">
+          <Simage url={JS} familiar="familiar"></Simage>
+          <Simage url={Html} familiar="familiar"></Simage>
+          <Simage url={CSS} familiar="familiar"></Simage> 
+        </div>
+      </span>
+
+      <h2 className="Skill_Title"> Front-end</h2>
       <span className="Skill_Content">
         <div className="SKill_box">
           <Simage url={JS} familiar="familiar"></Simage>
