@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "a3245f47d350e6ae0eb5",
+    "revision": "1c499f4656a61766f945",
     "url": "/React-PortFolio/static/css/main.ae387595.chunk.css"
   },
   {
-    "revision": "a3245f47d350e6ae0eb5",
-    "url": "/React-PortFolio/static/js/main.a3245f47.chunk.js"
+    "revision": "1c499f4656a61766f945",
+    "url": "/React-PortFolio/static/js/main.1c499f46.chunk.js"
   },
   {
-    "revision": "3e419a121c524fa6fb37",
-    "url": "/React-PortFolio/static/js/1.3e419a12.chunk.js"
+    "revision": "0bb3750fc000211e4743",
+    "url": "/React-PortFolio/static/js/1.0bb3750f.chunk.js"
   },
   {
     "revision": "84daf295a7f8e4920699",
@@ -18,6 +18,14 @@ self.__precacheManifest = [
   {
     "revision": "76d344f08412543c74ccd1fb2493d607",
     "url": "/React-PortFolio/static/media/github-logo.76d344f0.svg"
+  },
+  {
+    "revision": "11e8af26618daecab1b13cab7387ce65",
+    "url": "/React-PortFolio/static/media/900px-JavaScript-logo.11e8af26.png"
+  },
+  {
+    "revision": "faae11a6b87547339411b40ac228d4d7",
+    "url": "/React-PortFolio/static/media/css.faae11a6.png"
   },
   {
     "revision": "4a2f813924f8383e6dbf5d9069e1b618",
@@ -40,10 +48,6 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/react-1.876a8325.svg"
   },
   {
-    "revision": "11e8af26618daecab1b13cab7387ce65",
-    "url": "/React-PortFolio/static/media/900px-JavaScript-logo.11e8af26.png"
-  },
-  {
     "revision": "29edd163c3eff63d8bda8ad2b4bf2bfe",
     "url": "/React-PortFolio/static/media/typescript.29edd163.png"
   },
@@ -54,10 +58,6 @@ self.__precacheManifest = [
   {
     "revision": "ebc840eb727a889dfa308834bffbe7a3",
     "url": "/React-PortFolio/static/media/nuxt.ebc840eb.svg"
-  },
-  {
-    "revision": "faae11a6b87547339411b40ac228d4d7",
-    "url": "/React-PortFolio/static/media/css.faae11a6.png"
   },
   {
     "revision": "23d4be78082407fbde75192f49f7f6b3",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/React-PortFolio/static/media/1.88d07c4d.jpg"
   },
   {
-    "revision": "8df202c2a269a0aa98aafb0e79bbeb41",
+    "revision": "265aacb0856d605856c6181e6f561b16",
     "url": "/React-PortFolio/index.html"
   }
 ];
